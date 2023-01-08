@@ -846,6 +846,7 @@ h1 {
 .gather {
   background-color: #e7e7ea;
   margin-top: 40px;
+  width: 100%;
 }
 .messi-try-img img {
   width: 92px;
@@ -913,7 +914,7 @@ p {
   color: #202124;
   text-decoration: none;
 }
-.leadue a:hover,
+.league a:hover,
 .argent:hover,
 .apps a:hover,
 .app a:hover,
@@ -1029,8 +1030,9 @@ p {
     width: 100% !important;
   }
   nav {
-    max-width: 100%;
-    min-height: 100px;
+    width: 100%;
+    margin-left: 2%;
+    height: 120px;
   }
   .left-nav {
     display: block;
@@ -1042,20 +1044,20 @@ p {
   }
   .hover img {
     max-width: 100%;
-
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 30px;
     margin-bottom: 20px;
   }
   .search-box-icons {
     display: none;
   }
   .right-nav {
-    margin-top: -30px;
+    margin-top: -70px;
   }
   .under-nav {
     width: 100%;
-    gap: 1%;
+    gap: 4%;
+    margin-left: 2%;
   }
   .under-nav #tools {
     display: none;
@@ -1080,6 +1082,10 @@ p {
     height: fit-content;
     display: block;
     width: 100%;
+    margin-left: 2%;
+  }
+  .lionel-button {
+    margin-left: 2%;
   }
   .image-div img {
     width: 40%;
@@ -1103,14 +1109,95 @@ p {
   .right-left-card {
     width: 80%;
   }
-  .the-grid {
-    grid-template-columns: auto;
-    width: 100%;
-  }
   .the-first-grid {
     width: 70%;
   }
   .human-spot img {
     width: 30%;
+  }
+  .para p {
+    margin-left: 2%;
+  }
+  .hero {
+    display: block;
+  }
+  .the-grid {
+    display: block;
+    width: 100%;
+    margin-left: 2%;
+    border-bottom: none;
+  }
+  #try {
+    border-bottom: none;
+  }
+  .ingrid-flex {
+    width: 100%;
+  }
+  .the-first-grid {
+    width: 100%;
+  }
+
+  .human-spot img {
+    width: 60%;
+  }
+  .sky-sports {
+    width: 90%;
+  }
+  .more-news {
+    width: 80%;
+    margin-left: 2%;
+  }
+  .people {
+    margin: 70px 0 40px 2%;
+    width: 90%;
+  }
+  .inside-people {
+    font-size: 14px;
+  }
+  .https {
+    width: 100%;
+    margin-left: 2%;
+    margin-top: 10px;
+  }
+  .https p {
+    width: 90%;
+  }
+  .forward {
+    width: 90%;
+  }
+  .section-2 {
+    box-shadow: none;
+  }
+  .https h3 {
+    font-size: 16px;
+  }
+  .section-3 {
+    width: 90%;
+  }
+  .claim {
+    margin-bottom: 0;
+  }
+  #pleaseo {
+    margin-top: 0;
+  }
+  #height {
+    height: 20px;
+    margin-bottom: 25px;
+  }
+  #also {
+    font-size: 20px;
+    margin-top: 0px;
+  }
+  #plea {
+    margin-top: 20px;
+  }
+  .lets-grid {
+    width: 100%;
+    margin-left: 4%;
+    display: block;
+  }
+  .brown {
+    width: 80%;
+    margin-bottom: 10px;
   }
 }
