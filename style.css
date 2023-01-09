@@ -1030,7 +1030,7 @@ p {
     width: 100% !important;
   }
   nav {
-    width: 100%;
+    width: 98%;
     margin-left: 2%;
     height: 120px;
   }
@@ -1055,7 +1055,7 @@ p {
     margin-top: -70px;
   }
   .under-nav {
-    width: 100%;
+    width: 98%;
     gap: 4%;
     margin-left: 2%;
   }
@@ -1081,7 +1081,7 @@ p {
     gap: 5px;
     height: fit-content;
     display: block;
-    width: 100%;
+    width: 98%;
     margin-left: 2%;
   }
   .lionel-button {
@@ -1123,7 +1123,7 @@ p {
   }
   .the-grid {
     display: block;
-    width: 100%;
+    width: 98%;
     margin-left: 2%;
     border-bottom: none;
   }
@@ -1155,7 +1155,7 @@ p {
     font-size: 14px;
   }
   .https {
-    width: 100%;
+    width: 98%;
     margin-left: 2%;
     margin-top: 10px;
   }
@@ -1192,8 +1192,8 @@ p {
     margin-top: 20px;
   }
   .lets-grid {
-    width: 100%;
-    margin-left: 4%;
+    width: 98%;
+    margin-left: 2%;
     display: block;
   }
   .brown {
