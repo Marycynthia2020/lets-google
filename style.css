@@ -539,6 +539,8 @@ h1 {
   display: flex;
   align-items: center;
   gap: 5px;
+  margin-left: 20%;
+  margin-top: -20px;
   justify-content: center;
   position: absolute;
   /* left: 23%;
@@ -823,9 +825,9 @@ h1 {
   text-decoration: none;
 }
 .feedback {
-  width: 100%;
+  width: 95.5%;
   height: 42px;
-  /* margin-left: 4.5%; */
+  margin-left: 4.5%;
   background-color: #e7e7ea;
 }
 .feedback ul {
@@ -1024,6 +1026,7 @@ p {
 .hero-two {
   flex: 0.3408;
 }
+
 
 @media (max-width: 400px) {
   body {
