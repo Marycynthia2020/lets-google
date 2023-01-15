@@ -1028,19 +1028,6 @@ p {
 }
 
 
-.for {
-  display: none;
-}
-.inside-people p {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.inside-people p:hover + .for {
-  display: block;
-}
-
-
 @media (max-width: 400px) {
   body {
     width: 100% !important;
